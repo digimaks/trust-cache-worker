@@ -1,0 +1,10 @@
+{
+  "id": "snap-0001",
+  "generatedAt": "2026-07-04T08:00:00Z",
+  "lotlSequence": 388,
+  "lotlIssueTime": "2026-06-01T00:00:00Z",
+  "territories": [
+    {"code": "LV", "tlSequence": 51, "issueTime": "2026-06-20T00:00:00Z", "stale": false, "anchorCount": 5},
+    {"code": "EE", "tlSequence": 73, "issueTime": "2026-06-21T00:00:00Z", "stale": false, "anchorCount": 11}
+  ]
+}

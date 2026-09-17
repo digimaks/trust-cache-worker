@@ -1,0 +1,23 @@
+{
+  "snapshot": "snap-0001",
+  "generatedAt": "2026-07-04T08:00:00Z",
+  "stale": false,
+  "anchors": [
+    {
+      "type": "pid_provider",
+      "territory": "LV",
+      "source": "tl",
+      "tspName": "LV PID Provider",
+      "serviceName": "PID Issuance CA",
+      "serviceType": "http://uri.etsi.org/TrstSvc/Svctype/CA/QC",
+      "status": "http://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted",
+      "statusStartingTime": "2026-01-01T00:00:00Z",
+      "certDer": "{{CERT_DER}}",
+      "fingerprintSha256": "{{CERT_FP}}",
+      "subject": "CN=EUDI Test PID CA",
+      "notBefore": "2026-01-01T00:00:00Z",
+      "notAfter": "2028-01-01T00:00:00Z",
+      "tlSequence": 51
+    }
+  ]
+}
