@@ -9,8 +9,8 @@ import (
 	"github.com/go-quicktest/qt"
 	"go.uber.org/zap"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/health"
-	"github.com/dativa-lv/trust-cache-worker/internal/trustsync"
+	"github.com/digimaks/trust-cache-worker/internal/health"
+	"github.com/digimaks/trust-cache-worker/internal/trustsync"
 )
 
 // oneTypeCfg keeps the join tests single-type so a cycle is exactly one

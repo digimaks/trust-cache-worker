@@ -6,7 +6,7 @@ import (
 
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/health"
+	"github.com/digimaks/trust-cache-worker/internal/health"
 )
 
 func TestReadyLifecycle(t *testing.T) {

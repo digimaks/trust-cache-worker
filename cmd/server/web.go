@@ -6,8 +6,8 @@ import (
 	"azugo.io/core/cli"
 	"github.com/spf13/cobra"
 
-	worker "github.com/dativa-lv/trust-cache-worker"
-	"github.com/dativa-lv/trust-cache-worker/routes"
+	worker "github.com/digimaks/trust-cache-worker"
+	"github.com/digimaks/trust-cache-worker/routes"
 )
 
 func runWeb(cmd *cobra.Command, _ []string) error {

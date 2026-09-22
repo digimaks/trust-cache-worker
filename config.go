@@ -8,9 +8,9 @@ import (
 	"azugo.io/core/validation"
 	"github.com/spf13/viper"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/authdoer"
-	"github.com/dativa-lv/trust-cache-worker/internal/prefetch"
-	"github.com/dativa-lv/trust-cache-worker/internal/trustsync"
+	"github.com/digimaks/trust-cache-worker/internal/authdoer"
+	"github.com/digimaks/trust-cache-worker/internal/prefetch"
+	"github.com/digimaks/trust-cache-worker/internal/trustsync"
 )
 
 // Configuration embeds the go-platform-kit base configuration (standard fleet

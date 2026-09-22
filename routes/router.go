@@ -6,7 +6,7 @@ package routes
 import (
 	"crypto/sha256"
 
-	worker "github.com/dativa-lv/trust-cache-worker"
+	worker "github.com/digimaks/trust-cache-worker"
 )
 
 type router struct {

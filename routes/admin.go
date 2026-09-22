@@ -9,7 +9,7 @@ import (
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 	"github.com/valyala/fasthttp"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/health"
+	"github.com/digimaks/trust-cache-worker/internal/health"
 )
 
 // apiKeyAuth gates the operator surface on an X-API-Key match — the same

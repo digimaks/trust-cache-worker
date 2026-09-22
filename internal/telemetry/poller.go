@@ -14,7 +14,7 @@ import (
 	"github.com/gmb-lib/go-platform-kit/observability"
 	"go.uber.org/zap"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/health"
+	"github.com/digimaks/trust-cache-worker/internal/health"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 )
 

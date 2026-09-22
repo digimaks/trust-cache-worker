@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/prefetch"
+	"github.com/digimaks/trust-cache-worker/internal/prefetch"
 )
 
 func jwtWith(t testing.TB, claims map[string]any) []byte {

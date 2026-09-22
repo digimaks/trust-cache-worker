@@ -10,7 +10,7 @@ import (
 
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/prefetch"
+	"github.com/digimaks/trust-cache-worker/internal/prefetch"
 )
 
 // fetchTimeout keeps a hung server (or a client bug) failing the test fast

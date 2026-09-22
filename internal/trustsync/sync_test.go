@@ -14,9 +14,9 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zaptest/observer"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/health"
-	"github.com/dativa-lv/trust-cache-worker/internal/trustsync"
-	"github.com/dativa-lv/trust-cache-worker/internal/valkeystore"
+	"github.com/digimaks/trust-cache-worker/internal/health"
+	"github.com/digimaks/trust-cache-worker/internal/trustsync"
+	"github.com/digimaks/trust-cache-worker/internal/valkeystore"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 )
 

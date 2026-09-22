@@ -9,7 +9,7 @@ import (
 	"github.com/go-quicktest/qt"
 	"go.uber.org/zap"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/prefetch"
+	"github.com/digimaks/trust-cache-worker/internal/prefetch"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 )
 

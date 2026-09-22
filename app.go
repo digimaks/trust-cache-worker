@@ -16,13 +16,13 @@ import (
 	pkerrors "github.com/gmb-lib/go-platform-kit/errors"
 	"github.com/gmb-lib/go-platform-kit/platform"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/authdoer"
-	"github.com/dativa-lv/trust-cache-worker/internal/health"
-	"github.com/dativa-lv/trust-cache-worker/internal/prefetch"
-	"github.com/dativa-lv/trust-cache-worker/internal/schedule"
-	"github.com/dativa-lv/trust-cache-worker/internal/telemetry"
-	"github.com/dativa-lv/trust-cache-worker/internal/trustsync"
-	"github.com/dativa-lv/trust-cache-worker/internal/valkeystore"
+	"github.com/digimaks/trust-cache-worker/internal/authdoer"
+	"github.com/digimaks/trust-cache-worker/internal/health"
+	"github.com/digimaks/trust-cache-worker/internal/prefetch"
+	"github.com/digimaks/trust-cache-worker/internal/schedule"
+	"github.com/digimaks/trust-cache-worker/internal/telemetry"
+	"github.com/digimaks/trust-cache-worker/internal/trustsync"
+	"github.com/digimaks/trust-cache-worker/internal/valkeystore"
 )
 
 // App is the trust-cache-worker application container.

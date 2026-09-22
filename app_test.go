@@ -9,7 +9,7 @@ import (
 	"github.com/alicebob/miniredis/v2"
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/mocktrust"
+	"github.com/digimaks/trust-cache-worker/internal/mocktrust"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 )
 

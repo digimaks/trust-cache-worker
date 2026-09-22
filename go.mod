@@ -1,4 +1,4 @@
-module github.com/dativa-lv/trust-cache-worker
+module github.com/digimaks/trust-cache-worker
 
 go 1.27.0
 

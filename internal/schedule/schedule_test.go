@@ -9,7 +9,7 @@ import (
 	"github.com/gmb-lib/go-platform-kit/propagation"
 	"github.com/go-quicktest/qt"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/schedule"
+	"github.com/digimaks/trust-cache-worker/internal/schedule"
 )
 
 func TestRunsImmediatelyThenOnTicks(t *testing.T) {

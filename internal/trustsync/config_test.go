@@ -8,7 +8,7 @@ import (
 	"github.com/go-quicktest/qt"
 	"github.com/spf13/viper"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/trustsync"
+	"github.com/digimaks/trust-cache-worker/internal/trustsync"
 	"github.com/gmb-eudi/go-verifier-helpers/trustcache"
 )
 

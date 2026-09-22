@@ -9,8 +9,8 @@ import (
 	"github.com/go-quicktest/qt"
 	"github.com/valyala/fasthttp"
 
-	worker "github.com/dativa-lv/trust-cache-worker"
-	"github.com/dativa-lv/trust-cache-worker/internal/mocktrust"
+	worker "github.com/digimaks/trust-cache-worker"
+	"github.com/digimaks/trust-cache-worker/internal/mocktrust"
 )
 
 func testApp(t testing.TB) *azugo.TestApp {

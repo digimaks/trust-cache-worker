@@ -5,7 +5,7 @@ import (
 	"azugo.io/azugo/server"
 	"azugo.io/core/cli"
 
-	worker "github.com/dativa-lv/trust-cache-worker"
+	worker "github.com/digimaks/trust-cache-worker"
 )
 
 func init() {

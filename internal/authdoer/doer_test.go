@@ -11,8 +11,8 @@ import (
 
 	"github.com/gmb-lib/go-platform-kit/propagation"
 
-	"github.com/dativa-lv/trust-cache-worker/internal/authdoer"
-	"github.com/dativa-lv/trust-cache-worker/internal/mocktrust"
+	"github.com/digimaks/trust-cache-worker/internal/authdoer"
+	"github.com/digimaks/trust-cache-worker/internal/mocktrust"
 )
 
 func cfg(mode string) authdoer.Configuration {
